@@ -1,0 +1,3 @@
+﻿  trabalhoBarra.cpp
+C:\Users\jpvol\OneDrive\Área de Trabalho\PROGRAMAÇÃO\repositoryC++\trabalhoBarra\trabalhoBarra\trabalhoBarra.cpp(18,22): warning C4244: '=': conversão de '__int64' para 'short', possível perda de dados
+  trabalhoBarra.vcxproj -> C:\Users\jpvol\OneDrive\Área de Trabalho\PROGRAMAÇÃO\repositoryC++\trabalhoBarra\x64\Debug\trabalhoBarra.exe
